@@ -34,14 +34,5 @@ To get started with OrangeHR Management System, follow these steps:
 
 Contributions to OrangeHR Management System are welcome! If you encounter any bugs or have suggestions for improvements, please open an issue on GitHub. Pull requests are also encouraged.
 
-**License:**
 
-This project is licensed under the MIT License. See the [LICENSE](link-to-license-file) file for more details.
 
-**Support:**
-
-For any inquiries or support requests, please contact [email@example.com](mailto:email@example.com).
-
-**Acknowledgments:**
-
-We would like to thank all contributors and supporters who have helped make OrangeHR Management System possible. Your contributions are greatly appreciated.
